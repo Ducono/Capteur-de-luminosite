@@ -1,0 +1,20 @@
+# Binaires compilés
+*.bin
+*.elf
+*.map
+*.factory.bin
+build/
+
+# Images
+*.jpg
+*.jpeg
+*.png
+*.webp
+
+# PDFs techniques
+*.pdf
+
+# 3D
+*.3dm
+
+.DS_Store
