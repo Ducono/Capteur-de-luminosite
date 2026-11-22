@@ -1,0 +1,4 @@
+DIY Presence and Luminance Sensor Housing using ESP32, HLK_LD1125 or HLK_LD2410C and BH1750 by jimmbobb on Thingiverse: https://www.thingiverse.com/thing:6671735
+
+Summary:
+Compact housing for DIY home automation presence and luminance sensor based on ESP32, BH1750 and either the HLK-LD1125 or HLK-LD2410C. Excellent guides for the electronics can be found at the links below and assembly instructions are included in the Misc notes:https://smarthomescene.com/diy/diy-presence-sensor-with-hi-link-ld2410-and-esp32-for-home-assistant/https://smarthomescene.com/diy/diy-presence-sensor-with-hi-link-ld1125h-and-esp32-for-home-assistant/Adding the Luminance sensor follows the guidance on the ESPHome web site.

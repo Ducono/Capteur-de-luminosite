@@ -1,0 +1,4 @@
+Twilight sensor ESP32 mini | Home assistant by MFS88 on Thingiverse: https://www.thingiverse.com/thing:6802435
+
+Summary:
+Twilight sensor ESP32 mini USB C, designed for my Home Assistant.I wanted a sensor that can detect the light intensity (lux) of the outside so that I can switch my living room lighting and the garden on. My sensor is mounted with double-sided tape on the fridge and looks true the window.I have glued the lid and the case together with superglue.BH1750 | VCC      Red          Connect to ESP32-C3 3.3V or 5VBH1750 | SDL       Brown      Connect to ESP32-C3 SCL pin 9BH1750 | DAT       White       Connect to ESP32-C3 SDA pin 8BH1750 | GND      Black       Connect to ESP32-C3 GroundBH1750 | ADRR    Yellow     (not used)
